@@ -93,7 +93,9 @@ An advanced AI-powered Telegram bot featuring:
 
 ---
 
-## 🐍 Contribution Graph
+---
+
+## 🐍 Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Ariyan-Ebrahimi/Ariyan-Ebrahimi/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
