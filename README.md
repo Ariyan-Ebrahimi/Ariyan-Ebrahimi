@@ -1,89 +1,94 @@
-# Ariyan Ebrahimi
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=750&lines=AI+%26+Python+Developer;Computer+Engineering+Student;Building+Intelligent+Software;Always+Learning+New+Things" />
+</p>
 
-**Computer Engineering Student**
-**AI & Python Developer**
+<h1 align="center">Hi 👋, I'm Ariyan Ebrahimi</h1>
 
-Building intelligent software, automation tools, and modern web applications.
+<h3 align="center">
+Computer Engineering Student • AI & Python Developer
+</h3>
 
----
-
-## About
-
-I'm a Computer Engineering student with a strong interest in Artificial Intelligence and software engineering.
-
-I enjoy building practical applications that combine clean architecture with useful functionality, including AI-powered Telegram bots, automation tools, and modern websites.
-
-Currently, I'm focused on improving my skills in backend development, AI integration, and creating software that solves real-world problems.
+<p align="center">
+Building intelligent software, automation tools, modern web applications, and AI-powered solutions.
+</p>
 
 ---
 
-## What I Work With
+## 🚀 About Me
 
-### Programming
-
-* Python
-* JavaScript
-* HTML
-* CSS
-
-### Technologies
-
-* Artificial Intelligence
-* Telegram Bot API
-* SQLite
-* Git & GitHub
-* WordPress
-* Front-End Development
+* 🎓 Computer Engineering Student
+* 🤖 Passionate about Artificial Intelligence
+* 🐍 Python Developer
+* 💬 Telegram Bot Developer
+* 🌐 WordPress Website Developer
+* 🎨 Front-End Development (HTML, CSS & JavaScript)
+* 📚 Currently learning Machine Learning & Backend Architecture
 
 ---
 
-## Featured Project
+## 🛠️ Tech Stack
 
-### NexaAI
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,js,html,css,git,github,vscode,sqlite,wordpress" />
+</p>
+
+---
+
+## 📌 Featured Project
+
+### 🤖 NexaAI Telegram Bot
 
 An advanced AI-powered Telegram bot featuring:
 
-* Conversational AI
-* Image Understanding
+* AI Conversations
+* Image Analysis
 * Voice Transcription
-* Document Analysis
-* User Management
+* Document Understanding
 * Admin Dashboard
+* User Management
 * SQLite Database
+* Broadcast System
+* Daily Usage Limits
 
 ---
 
-## Currently Learning
+## 📊 GitHub Stats
 
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Ariyan-Ebrahimi&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ariyan-Ebrahimi&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=Ariyan-Ebrahimi&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 🌱 Currently Learning
+
+* Artificial Intelligence
 * Machine Learning
-* Backend Architecture
-* Advanced Python
-* AI Systems Design
+* Backend Development
+* Software Architecture
 
 ---
 
-## Goals
+## 📫 Connect With Me
 
-* Build reliable AI applications
-* Contribute to open-source projects
-* Continuously improve as a software engineer
+<p align="center">
+<a href="https://github.com/Ariyan-Ebrahimi">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+</p>
 
 ---
 
-*"Build with purpose. Learn continuously."*
-
-
-<!--
-**Ariyan-Ebrahimi/Ariyan-Ebrahimi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+<i>"Build with purpose. Learn continuously."</i>
+</p>
