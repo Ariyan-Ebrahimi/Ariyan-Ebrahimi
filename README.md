@@ -88,3 +88,13 @@ An advanced AI-powered Telegram bot featuring:
 <p align="center">
 <i>"Build with purpose. Learn continuously."</i>
 </p>
+
+---
+
+---
+
+## 🐍 Contribution Graph
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Ariyan-Ebrahimi/Ariyan-Ebrahimi/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
