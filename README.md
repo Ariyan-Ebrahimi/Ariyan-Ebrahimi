@@ -62,11 +62,7 @@ An advanced AI-powered Telegram bot featuring:
 
 ---
 
-## 🔥 GitHub Streak
 
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=Ariyan-Ebrahimi&theme=tokyonight&hide_border=true"/>
-</p>
 
 ---
 
