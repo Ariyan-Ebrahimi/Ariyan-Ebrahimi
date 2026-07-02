@@ -19,15 +19,6 @@ Building intelligent software, automation tools, modern web applications, and AI
 
 ### 🚀 About Me
 
-\`\`\`yaml
-name: "Ariyan Ebrahimi"
-role: "Computer Engineering Student"
-focus: ["Artificial Intelligence", "Python Development", "Automation"]
-currently_building: "NexaAI Telegram Bot"
-currently_learning: ["Machine Learning", "Backend Architecture", "Software Design"]
-fun_fact: "I ship bots that talk, listen, and read documents better than I do at 8 AM"
-\`\`\`
-
 - 🎓 Computer Engineering Student
 - 🤖 Passionate about Artificial Intelligence
 - 🐍 Python Developer
@@ -35,6 +26,8 @@ fun_fact: "I ship bots that talk, listen, and read documents better than I do at
 - 🌐 WordPress Website Developer
 - 🎨 Front-End Development (HTML, CSS & JavaScript)
 - 📚 Currently learning Machine Learning & Backend Architecture
+- 🔭 Currently building: **NexaAI Telegram Bot**
+- ⚡ Fun fact: I ship bots that talk, listen, and read documents better than I do at 8 AM
 
 ---
 
@@ -108,11 +101,6 @@ An advanced AI-powered Telegram bot
 <div align="center">
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,fastapi,docker" />
 </div>
-
-- Artificial Intelligence
-- Machine Learning
-- Backend Development
-- Software Architecture
 
 ---
 
