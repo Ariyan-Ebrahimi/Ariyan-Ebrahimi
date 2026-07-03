@@ -71,8 +71,8 @@ An advanced AI-powered Telegram bot
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Ariyan-Ebrahimi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ariyan-Ebrahimi&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Ariyan-Ebrahimi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Ariyan-Ebrahimi&layout=compact&theme=tokyonight&hide_border=true" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ariyan-Ebrahimi&theme=tokyonight&hide_border=true" />
 
