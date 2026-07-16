@@ -26,7 +26,7 @@ Building intelligent software, automation tools, modern web applications, and AI
 - 🌐 WordPress Website Developer
 - 🎨 Front-End Development (HTML, CSS & JavaScript)
 - 📚 Currently learning Machine Learning & Backend Architecture
-- 🔭 Currently building: **NexaAI Telegram Bot**
+- 🔭 Currently building: **Lockit Desktop App**
 - ⚡ Fun fact: I ship bots that talk, listen, and read documents better than I do at 8 AM
 
 ---
