@@ -111,14 +111,18 @@ Built with **Python & PySide6** and distributed as a standalone Windows applicat
 
 ## 📂 Projects
 
+## 📂 Projects
+
 <div align="center">
 
-| Project                                                    | Description                                |       Status      |
-| :--------------------------------------------------------- | :----------------------------------------- | :---------------: |
-| 🔐 **[LockIt](https://github.com/Ariyan-Ebrahimi/Lockit)** | Secure desktop file encryption application |     ✅ Released    |
-| 🎬 **NovaPlayer**                                          | Modern Windows desktop video player        | 🚧 In Development |
+| Project                                                                              | Description                                                                                                                                        | Tech                                         |       Status      |
+| :----------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------- | :---------------: |
+| 🔐 **[LockIt](https://github.com/Ariyan-Ebrahimi/Lockit)**                           | Modern desktop application for secure local file encryption and decryption                                                                         | Python • PySide6 • Cryptography              |     ✅ Released    |
+| 🤖 **[NexaAI Telegram Bot](https://github.com/Ariyan-Ebrahimi/NexaAI-Telegram-Bot)** | AI-powered Telegram assistant with conversations, document understanding, voice processing, admin tools, usage limits, and SQLite-based management | Python • Telegram Bot API • AI APIs • SQLite |    ✅ Completed    |
+| 🎬 **NovaPlayer**                                                                    | Modern Windows desktop video player with a clean interface and advanced media playback features                                                    | Python • PySide6 • mpv                       | 🚧 In Development |
 
 </div>
+
 
 ---
 
