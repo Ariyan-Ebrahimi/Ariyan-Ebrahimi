@@ -84,6 +84,8 @@ Built with **Python & PySide6** and distributed as a standalone Windows applicat
 
 <br>
 
+<center>
+
 | Feature                     | Description                                      |
 | :-------------------------- | :----------------------------------------------- |
 | 🔒 **File Encryption**      | Protect files through a simple desktop interface |
@@ -96,6 +98,8 @@ Built with **Python & PySide6** and distributed as a standalone Windows applicat
 | ⚡ **Background Processing** | File operations without freezing the UI          |
 | 📦 **Windows Installer**    | Install like a standard Windows application      |
 | 🚀 **Standalone Build**     | End users do not need Python installed           |
+
+</center>
 
 <div align="center">
 
