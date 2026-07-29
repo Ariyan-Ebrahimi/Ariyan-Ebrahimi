@@ -136,7 +136,7 @@ Built with **Python & PySide6** and distributed as a standalone Windows applicat
 
 <br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ariyan-Ebrahimi&theme=tokyonight&hide_border=true" />
+
 
 </div>
 
